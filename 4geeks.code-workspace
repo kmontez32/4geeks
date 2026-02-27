@@ -1,0 +1,10 @@
+{git add
+git commit -m "First commit"extensions": {git push origin main
+},
+
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+}
